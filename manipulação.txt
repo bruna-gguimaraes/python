@@ -1,0 +1,1 @@
+oii, isso é um teste de manipulação de arquivos em python
